@@ -37,7 +37,10 @@
 
       
 
-    
+
+ <main>
+    <section id="about">
+      찾아오시는 길: 울산 광역시 중구
       
       전화: 010-1234-5678</p>
       이메일: contact@gamseongcafe.com</p>
@@ -48,6 +51,6 @@
     <p>&copy; 2026 감성카페</p>
   </footer>
 
-  <script src="js/script.js"></script>
+  
 </body>
 </html>
